@@ -1,0 +1,10 @@
+{
+  "description": "A polished hospital quality dashboard for leadership and staff to monitor audits, KPIs, patient safety, compliance, and improvement initiatives efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
